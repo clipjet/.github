@@ -1,5 +1,5 @@
 # ClipJet 🚀
-*Create reels faster than ever.*
+*Create video clips faster than ever.*
 
 
 
