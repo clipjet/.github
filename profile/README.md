@@ -4,8 +4,8 @@
 
 
 ### 🌐 Connect With Us
-- **Website:** [clipjet.io](https://clipjet.io)
-- **Email:** hello@clipjet.io
+- **Website:** [clipjet.io](https://clipjet.com)
+- **Email:** hello@clipjet.com
 
 
 ### 👤 Management
